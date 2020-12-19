@@ -2,19 +2,20 @@
 ### Hey there  👋   	
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=berkslv.berkslv)
  
-<hr />
-
   Hi, I'm Berk Selvi, a passionate self-taught Developer 🚀
 
 **I'm working with:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/redux.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/mysql.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg"></code>
+
+
+- 🔭 I’m currently working on my mini start-up
+- 🌱 I’m currently learning calculus
+
