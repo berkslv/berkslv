@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=berkslv.berkslv)
  
  <p> 🚀 Hey, I'm Berk Selvi, a passionate self-taught Software Developer, and I love to contribute to open source projects </p>
- <p> 👨‍🎓  I'm currently undergraduate on Turkey.</p>
+ <p> 👨‍🎓  I'm currently undergraduate in computer science.</p>
  <p> ♾️ I'm interested in math and it's applications.</p>
 
 **I'm working with:**  
