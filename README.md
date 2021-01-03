@@ -5,7 +5,7 @@
  <p> 🚀 Hey, I'm Berk Selvi, a passionate self-taught Software Developer, and I love to reading code </p>
  <p> 👨‍🎓  I'm currently undergraduate in computer science.</p>
  <p> ♾️ I'm interested in math and it's applications.</p>
- <p> :email: Contact me by <a>berkslv@gmail.com.</a></p>
+ <p> :email: Contact me by <b>berkslv@gmail.com.</b></p>
 
 **I'm working with:**  
 
