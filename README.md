@@ -15,7 +15,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/mysql.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg"></code>
 
