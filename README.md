@@ -7,7 +7,7 @@
  <p> ♾️ I'm interested in math and it's applications.</p>
  <p> :email: Contact me by <b>berkslv@gmail.com.</b></p>
 
-**I'm working with:**  
+**Tech stack:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg"></code>
