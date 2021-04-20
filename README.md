@@ -10,12 +10,16 @@
 
 **Tech stack:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/redux.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/mysql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg"></code>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30px"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px"></span>&nbsp;&nbsp;
+
+
+
+
 
