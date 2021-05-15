@@ -2,9 +2,8 @@
 ### Hey there  👋   	
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=berkslv.berkslv)
  
- <p> 🚀 Hey, I'm Berk Selvi, a passionate self-taught Software Developer, and I love to reading code </p>
+ <p> 🚀 Hey, I'm Berk Selvi, a passionate self-taught Software Developer, and I love to writing code </p>
  <p> 👨‍🎓  I'm currently undergraduate in computer science.</p>
- <p> ♾️ I'm interested in math and it's applications.</p>
  <p> :cyclone: Visit my <a href="https://berkslv.github.io/">portfolio website</a> and learn more about me.</p>
  <p> :email: Contact me by <a href="mailto:berkslv@gmail.com">berkslv@gmail.com</a></p>
 
