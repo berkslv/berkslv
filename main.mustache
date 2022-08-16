@@ -8,7 +8,7 @@
 
 I'm Berk Selvi, full-stack web developer, Computer Science student at Turkey and passionate to code and open source.
 
-Nowadays, I work with C# for web service and React for web interface projects, and I work on my blog posts on software and technology. If you want to know more about me [Visit my webiste](https://berkselvi.dev)
+If you want to know more about me [Visit my webiste](https://berkselvi.dev)
 
 
 <div align="center">
