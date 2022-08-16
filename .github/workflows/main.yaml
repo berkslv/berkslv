@@ -1,0 +1,28 @@
+name: GitHub Actions Demo
+
+on: [push]
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Installing dependencies
+        run: npm install
+      - name: Creating README.md
+        run: touch README.md
+      - name: Starting node
+        run: npm run start
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
