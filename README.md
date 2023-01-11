@@ -6,15 +6,18 @@
 
 # Hey there 👋
 
-I'm Berk Selvi, full-stack web developer, Computer Science student at Turkey and passionate to code and open source.
+Hello! My name is Berk Selvi and I am a full-stack web developer specializing in backends. I am currently studying Computer Engineering at Namık Kemal University and I am also developing side projects, I really enjoy developing applications that solve real-world problems.
+
+Since I started working in this field, I have worked in many different sectors. Over the past three years, I've built websites for my clients as a freelance developer. When I started university, I trained myself with theoretical knowledge from various sources such as MIT and Stanford. After believing that I was at a sufficient level, I started to develop complex projects.
+
+Having a vision from long and varied work experience, I have acquired skills such as responsibility, team player, time management and problem solving. I am confident that my vision and social skills will help me in projects that I will develop alone or as a team.
+
+**Front-End:** JavaScript, React, Redux, React-Native, HTML5, CSS3
+**Back-End:** .Net Core, Python, Node.js
+**Databases:** T-SQL, SQL Server, MySQL, MongoDB
+**Tools:** Docker, AWS, Jira, Git, GitHub
 
 If you want to know more about me [Visit my webiste](https://berkselvi.dev)
-
-
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=berkslv&show_icons=true&bg_color=1f222a&text_color=ffffff&title_color=78e2a0&icon_color=78e2a0" />
-</div>
-
 
 ## 📘 My latest blog posts
 
@@ -35,4 +38,9 @@ If you want to know more about me [Visit my webiste](https://berkselvi.dev)
     <a href="https://medium.com/@berkslv">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/medium.svg" />
     </a>
+</div>
+
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=berkslv&show_icons=true&bg_color=1f222a&text_color=ffffff&title_color=78e2a0&icon_color=78e2a0" />
 </div>

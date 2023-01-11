@@ -1,4 +1,7 @@
 // index.js
+/* 
+  This script renders main.mustache file with berkslv's medium feeds 3 posts.
+*/
 const Mustache = require("mustache");
 const axios = require("axios");
 const fs = require("fs");
