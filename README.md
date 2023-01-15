@@ -42,9 +42,3 @@ If you want to know more about me [Visit my webiste](https://berkselvi.dev)
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/medium.svg" />
     </a>
 </div>
-
-<br />
-
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=berkslv&show_icons=true&bg_color=1f222a&text_color=ffffff&title_color=78e2a0&icon_color=78e2a0" />
-</div>
