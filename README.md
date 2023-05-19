@@ -20,6 +20,14 @@ Having a vision from long and varied work experience, I have acquired skills suc
 
 **Tools:** Docker, AWS, Jira, Git, GitHub
 
+If you want to know more about me [Visit my webiste](https://berkselvi.dev)
+
+## 📘 My latest blog posts
+
+- [How to Deploy a React App with Nginx using Docker with react-router-dom](https://berkslv.medium.com/how-to-deploy-a-react-app-with-nginx-using-docker-with-react-router-dom-628d2d86d30a?source=rss-570b367bddbc------2)
+- [The Future of Backend Development: Predictions and Trends](https://berkslv.medium.com/the-future-of-backend-development-predictions-and-trends-87d611b530d0?source=rss-570b367bddbc------2)
+- [How to learn something very well](https://berkslv.medium.com/how-to-learn-something-very-well-56b03e434e9c?source=rss-570b367bddbc------2)
+
 
 ## Links
 
