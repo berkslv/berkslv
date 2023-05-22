@@ -20,7 +20,6 @@ Having a vision from long and varied work experience, I have acquired skills suc
 
 **Tools:** Docker, AWS, Jira, Git, GitHub
 
-If you want to know more about me [Visit my webiste](https://berkselvi.dev)
 
 ## 📘 My latest blog posts
 
@@ -32,13 +31,13 @@ If you want to know more about me [Visit my webiste](https://berkselvi.dev)
 ## Links
 
 <div align="center">
-    <a href="https://twitter.com/berkslv">
+    <a href="https://twitter.com/berkselvidev">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/twitter.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/berkslv/">
+    <a href="https://www.linkedin.com/in/berkselvidev/">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/linkedin.svg" />
     </a>
-    <a href="https://medium.com/@berkslv">
+    <a href="https://medium.com/@berkselvidev">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/medium.svg" />
     </a>
 </div>
