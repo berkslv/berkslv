@@ -23,9 +23,9 @@ Having a vision from long and varied work experience, I have acquired skills suc
 
 ## 📘 My latest blog posts
 
-- [How to Deploy a React App with Nginx using Docker with react-router-dom](https://berkslv.medium.com/how-to-deploy-a-react-app-with-nginx-using-docker-with-react-router-dom-628d2d86d30a?source=rss-570b367bddbc------2)
-- [The Future of Backend Development: Predictions and Trends](https://berkslv.medium.com/the-future-of-backend-development-predictions-and-trends-87d611b530d0?source=rss-570b367bddbc------2)
-- [How to learn something very well](https://berkslv.medium.com/how-to-learn-something-very-well-56b03e434e9c?source=rss-570b367bddbc------2)
+- [Achieving Zero Downtime: Azure App Service Deployment using Azure DevOps and Deployment Slots](https://blog.stackademic.com/achieving-zero-downtime-azure-app-service-deployment-using-azure-devops-and-deployment-slots-401f12f591c5?source=rss-570b367bddbc------2)
+- [Background jobs and Hangife in .Net](https://blog.stackademic.com/background-jobs-and-hangife-in-net-b2024aa19f91?source=rss-570b367bddbc------2)
+- [How to Secure Dotnet &amp;amp; Vue.js Application with Keycloak](https://blog.stackademic.com/how-to-secure-dotnet-vue-application-with-keycloak-50af55c21236?source=rss-570b367bddbc------2)
 
 
 ## Links
@@ -39,8 +39,5 @@ Having a vision from long and varied work experience, I have acquired skills suc
     </a>
     <a href="https://medium.com/@berkselvidev">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/medium.svg" />
-    </a>
-    <a href="https://medium.com/@berkselvidev">
-        <img width="60"  src="https://httpbin.org/get" />
     </a>
 </div>
