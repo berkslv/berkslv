@@ -31,13 +31,13 @@ Having a vision from long and varied work experience, I have acquired skills suc
 ## Links
 
 <div align="center">
-    <a href="https://twitter.com/berkselvidev">
+    <a href="https://twitter.com/berkslv">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/twitter.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/berkselvidev/">
+    <a href="https://www.linkedin.com/in/berkslv/">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/linkedin.svg" />
     </a>
-    <a href="https://medium.com/@berkselvidev">
+    <a href="https://medium.com/@berkslv">
         <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/medium.svg" />
     </a>
 </div>
