@@ -1,6 +1,11 @@
 name: GitHub Actions Demo
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
+  repository_dispatch:
+    types: [repo-berkselvidev-pushed] # This must match the event_type from Repo A exactly
 
 
 jobs:
