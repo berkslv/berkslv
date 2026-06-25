@@ -8,7 +8,7 @@
 ## Links
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center">
         <a href="https://berkselvi.dev">
