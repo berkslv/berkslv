@@ -26,9 +26,9 @@ Jira, Azure DevOps
 
 ## 📘 My latest blog posts
 
-- [How to use Ocelot and Keycloak together to secure Microservices from API Gateway](https://blog.stackademic.com/how-to-use-ocelot-and-keycloak-together-to-secure-microservices-from-api-gateway-1d42483f0e61?source=rss-570b367bddbc------2)
-- [Achieving Zero Downtime: Azure App Service Deployment using Azure DevOps and Deployment Slots](https://blog.stackademic.com/achieving-zero-downtime-azure-app-service-deployment-using-azure-devops-and-deployment-slots-401f12f591c5?source=rss-570b367bddbc------2)
-- [Background jobs and Hangife in .Net](https://blog.stackademic.com/background-jobs-and-hangife-in-net-b2024aa19f91?source=rss-570b367bddbc------2)
+- [Refactoring from an Anemic to a Rich Domain Model in .NET](https://blog.stackademic.com/refactoring-from-an-anemic-to-a-rich-domain-model-in-net-0ae9bca073f9?source=rss-570b367bddbc------2)
+- [.NET’te Anemic’ten Rich Domain Model’e Refactoring](https://medium.com/dogus-teknoloji/nette-anemic-ten-rich-domain-model-e-refactoring-6b2db8dc8428?source=rss-570b367bddbc------2)
+- [Legacy WCF&#x2F;SOAP to Modern .NET: Migration Without Compromise](https://blog.stackademic.com/legacy-wcf-soap-to-modern-net-migration-without-compromise-f4c735c0aa2c?source=rss-570b367bddbc------2)
 
 
 ## Links
