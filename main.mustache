@@ -8,19 +8,32 @@
 ## Links
 
 <div align="center">
-    <a href="https://berkselvi.dev">
-        <img width="60" src="https://berkselvi.dev/img/logo.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/berkslv">
-        <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/twitter.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/berkslv/">
-        <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/linkedin.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@berkslv">
-        <img width="60"  src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/medium.svg" />
-    </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://berkselvi.dev">
+          <img width="60" src="https://berkselvi.dev/img/logo.svg" />
+        </a>
+        <br/>Website
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/berkslv">
+          <img width="60" src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/twitter.svg" />
+        </a>
+        <br/>Twitter
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/berkslv/">
+          <img width="60" src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/linkedin.svg" />
+        </a>
+        <br/>LinkedIn
+      </td>
+      <td align="center">
+        <a href="https://medium.com/@berkslv">
+          <img width="60" src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/medium.svg" />
+        </a>
+        <br/>Medium
+      </td>
+    </tr>
+  </table>
 </div>
