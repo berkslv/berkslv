@@ -18,6 +18,7 @@
   "homepage": "https://github.com/berkslv/berkslv#readme",
   "dependencies": {
     "axios": "^0.21.4",
+    "fast-xml-parser": "^5.9.3",
     "mustache": "^4.2.0"
   }
 }

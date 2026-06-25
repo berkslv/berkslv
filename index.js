@@ -1,53 +1,39 @@
 // index.js
 /* 
-  This script renders main.mustache file with berkslv's medium feeds 3 posts.
+  This script renders main.mustache file with berkslv's personal blog feeds 3 posts.
 */
 const Mustache = require("mustache");
 const axios = require("axios");
 const fs = require("fs");
+const { XMLParser } = require("fast-xml-parser");
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const MEDIUM_POSTS_URL =
-  "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@berkslv";
+const BLOG_RSS_URL = "https://berkselvi.dev/index.xml";
 
-function getMediumFeedItems(items, result) {
-  if (items.length >= 3) {
-    for (let i = 0; i < 3; i++) {
-      let item = {
-        title: items[i].title,
-        link: items[i].link,
-        thumbnail: items[i].thumbnail,
-      };
-      result.push(item);
-    }
-  } else {
-    for (let i = 0; i < items.length; i++) {
-      let item = {
-        title: items[i].title,
-        link: items[i].link,
-        thumbnail: items[i].thumbnail,
-      };
-      result.push(item);
-    }
-  }
+function getBlogFeedItems(items) {
+  const count = Math.min(items.length, 3);
+  return items.slice(0, count).map((item) => ({
+    title: item.title,
+    link: item.link,
+  }));
 }
 
-async function getMediumFeed() {
-  let mediumFeed = [];
+async function getBlogFeed() {
+  let blogFeed = [];
 
   await axios
-    .get(MEDIUM_POSTS_URL)
+    .get(BLOG_RSS_URL)
     .then(function (response) {
-      // handle success
-      if (response.data.status === "ok") {
-        getMediumFeedItems(response.data.items, mediumFeed);
-      }
+      const parser = new XMLParser();
+      const result = parser.parse(response.data);
+      const items = result.rss.channel.item;
+      blogFeed = getBlogFeedItems(Array.isArray(items) ? items : [items]);
     })
     .catch(function (error) {
       console.error(error);
     });
 
-  generateReadMe(mediumFeed);
+  generateReadMe(blogFeed);
 }
 
 function generateReadMe(blogFeed) {
@@ -62,4 +48,4 @@ function generateReadMe(blogFeed) {
   });
 }
 
-getMediumFeed();
+getBlogFeed();
