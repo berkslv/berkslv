@@ -1,8 +1,5 @@
 ## 📘 My latest blog posts
 
-- [From IEnumerable to IAsyncEnumerable: Streaming Large Datasets in .NET Without Killing Memory](https://berkselvi.dev/posts/from-ienumerable-to-iasyncenumerable-streaming-large-datasets-in-dotnet-without-killing-memory/)
-- [The Idempotency Key Pattern in .NET: What Happens When Your Payment API Gets Called Twice](https://berkselvi.dev/posts/the-idempotency-key-pattern-in-dotnet-what-happens-when-your-payment-api-gets-called-twice/)
-- [Events vs Commands in Software Architecture: A Complete .NET Guide](https://berkselvi.dev/posts/events-vs-commands-in-software-architecture-a-complete-dotnet-guide/)
 
 
 ## Links
