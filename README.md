@@ -88,15 +88,5 @@ Software engineer in Istanbul with 3+ years of experience building .NET distribu
         <br/>Medium
       </td>
     </tr>
-    <tr>
-    <td><b>AI Agents</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white" alt="OpenCode" />
-      <img src="https://img.shields.io/badge/Pi-000000?style=flat&logo=pi&logoColor=white" alt="Pi" />
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-    </td>
-  </tr>
-</table>
+  </table>
 </div>
