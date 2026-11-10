@@ -36,12 +36,6 @@ Software engineer in Istanbul building .NET distributed systems and AI agents th
         <br/>Website
       </td>
       <td align="center">
-        <a href="https://twitter.com/berkslv">
-          <img width="60" src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/twitter.svg" />
-        </a>
-        <br/>Twitter
-      </td>
-      <td align="center">
         <a href="https://www.linkedin.com/in/berkslv/">
           <img width="60" src="https://raw.githubusercontent.com/berkslv/berkslv/main/img/linkedin.svg" />
         </a>
