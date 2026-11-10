@@ -1,10 +1,20 @@
 ### Hi! I'm Berk 👋
 
-Software engineer in Istanbul with 3+ years of experience building .NET distributed systems in the finance domain. I focus on scalable architectures, DevOps and AI-assisted development, building AI agents that automate the software development lifecycle. I also contribute to open source, speak at events and write at [berkslv.com](https://berkslv.com).
+Software engineer in Istanbul building .NET distributed systems and AI agents that automate the software development lifecycle. I contribute to open source, speak at events and write at [berkslv.com](https://berkslv.com).
 
 ## Tech
 
 <table>
+  <tr>
+    <td><b>AI Agents</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white" alt="OpenCode" />
+      <img src="https://img.shields.io/badge/Pi-000000?style=flat&logo=pi&logoColor=white" alt="Pi" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+    </td>
+  </tr>
   <tr>
     <td><b>Languages</b></td>
     <td>
@@ -44,16 +54,6 @@ Software engineer in Istanbul with 3+ years of experience building .NET distribu
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat" alt="Azure" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI Agents</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white" alt="OpenCode" />
-      <img src="https://img.shields.io/badge/Pi-000000?style=flat&logo=pi&logoColor=white" alt="Pi" />
-      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
     </td>
   </tr>
 </table>
