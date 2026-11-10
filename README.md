@@ -1,6 +1,6 @@
-### Merhaba! / Hi! I'm Berk 👋
+### Hi! I'm Berk 👋
 
-Software engineer in Istanbul with 3+ years of experience building .NET distributed systems in the finance domain. I focus on scalable architectures, DevOps and Agile delivery, and I contribute to open source, speak at events and write at [berkslv.com](https://berkslv.com).
+Software engineer in Istanbul with 3+ years of experience building .NET distributed systems in the finance domain. I focus on scalable architectures, DevOps and AI-assisted development, building AI agents that automate the software development lifecycle. I also contribute to open source, speak at events and write at [berkslv.com](https://berkslv.com).
 
 ## Tech
 
